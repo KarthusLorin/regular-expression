@@ -38,7 +38,7 @@ var result = text.replace(reg, 'IS')	// 'He IS a boy. It IS a dog'
 
 在正常情况下，正则匹配到第一个匹配项则停止，并且默认大小写敏感，如果想修改默认选项，则需要修饰符。值得一提，修饰符可以同时使用，比如我想要全局大小写不敏感，则同时在正则末尾加上`gi`<br/>
 
-`g`：global 全文搜索，<br/>
+`g`：global 全文搜索<br/>
 
 `i`：ignore case 忽略大小写<br/>
 
