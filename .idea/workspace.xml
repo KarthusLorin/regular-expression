@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab72afef-3c54-48da-bdc6-e5fbd7087109" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/scope-classes/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/scope-classes/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predefine-classes&amp;border/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predefine-classes&amp;border/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predefine-classes&amp;border/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predefine-classes/readme.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,7 +19,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predefine-classes&amp;border/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/predefine-classes&amp;border/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,6 +60,8 @@
         <option value="$PROJECT_DIR$/character-classes/script.js" />
         <option value="$PROJECT_DIR$/scope-classes/index.html" />
         <option value="$PROJECT_DIR$/scope-classes/script.js" />
+        <option value="$PROJECT_DIR$/predefine-classes/index.html" />
+        <option value="$PROJECT_DIR$/predefine-classes/script.js" />
       </list>
     </option>
   </component>
@@ -50,8 +75,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="605" />
-    <option name="y" value="58" />
+    <option name="x" value="584" />
+    <option name="y" value="56" />
     <option name="width" value="1069" />
     <option name="height" value="834" />
   </component>
@@ -69,6 +94,11 @@
             <path>
               <item name="regular-expression" type="b2602c69:ProjectViewProjectNode" />
               <item name="regular-expression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="regular-expression" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regular-expression" type="462c0819:PsiDirectoryNode" />
+              <item name="predefine-classes&amp;border" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,15 +144,16 @@
       <workItem from="1529939962154" duration="2815000" />
       <workItem from="1530199888022" duration="1370000" />
       <workItem from="1530420081392" duration="46000" />
-      <workItem from="1530547645226" duration="2482000" />
+      <workItem from="1530547645226" duration="4754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6713000" />
+    <option name="totallyTimeSpent" value="8985000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="605" y="58" width="1069" height="834" extended-state="0" />
+    <frame x="584" y="56" width="1069" height="834" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -228,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scope-classes/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -237,6 +268,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predefine-classes&amp;border/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predefine-classes&amp;border/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
