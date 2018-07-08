@@ -6,7 +6,7 @@ let result = text.replace(reg, 'X')		// XX
 
 console.log(result)
 
-let text2 = '2015-12-25'
+let text2 = '2018-07-09'
 
 let reg2 = /(\d{4})-(\d{2})-(\d{2})/g
 
